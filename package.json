@@ -1,0 +1,26 @@
+{
+  "name": "bandy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bandy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangwao/bandy.git"
+  },
+  "author": "yangwao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangwao/bandy/issues"
+  },
+  "homepage": "https://github.com/yangwao/bandy#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nodemon": "^1.18.10",
+    "r2": "^2.0.1",
+    "telegraf": "^3.27.1",
+    "telegraf-command-parts": "^1.0.3"
+  }
+}
