@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/yangwao/bandy#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "nodemon": "^1.18.10",
     "r2": "^2.0.1",
     "telegraf": "^3.27.1",
